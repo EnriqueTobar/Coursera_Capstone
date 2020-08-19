@@ -14,5 +14,8 @@ In this week, you will continue working on your capstone project. Please remembe
 2. A link to your Notebook on your Github repository pushed showing your code. (**15 marks**)
 3. Your choice of a presentation or blogpost. (**10 marks**)
 
+<<<<<<< HEAD
 **Here are examples of my submissions that should give you an idea of what your report would look like, what your notebook would look like in terms of clean, clear, and well-commented code, and what your presentation would look like or your blogpost would look like**:
 
+=======
+>>>>>>> 6a0ab03de5306661e30f0956929da0fc128abeca
